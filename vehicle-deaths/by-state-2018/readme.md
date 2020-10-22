@@ -10,3 +10,5 @@ Perfect practice for the "join" data move. :)
 
 
 (FARS: https://www-fars.nhtsa.dot.gov/Main/index.aspx)
+
+Vehicle registrations by state file is from https://www.valuepenguin.com/auto-insurance/car-ownership-statistics#state-total
